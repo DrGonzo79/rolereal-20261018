@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+playwright-report/
+test-results/
+rolereal-20261018
+*.pyc
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example
